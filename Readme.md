@@ -74,7 +74,7 @@
       <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img
       src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg"
       alt="visualstudio" width="40" height="40" /> </a> </a>  </a> <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> <img
-      src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" alt="wordpress" width="40"
+      src="https://static.vecteezy.com/system/resources/previews/020/975/579/original/wordpress-logo-wordpress-icon-transparent-free-png.png" alt="wordpress" width="40"
       height="40" /> </a>
       <a href="=https://woocommerce.com/" target="_blank" rel="noreferrer"> <img
       src="https://cdn.worldvectorlogo.com/logos/woocommerce.svg"
