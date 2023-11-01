@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Qazi Mubin</h1>
-<h3 align="center">Student at SMIU, Level Two Freelancer at Fiverr.<a href="https://www.fiverr.com/qmubin" target="blank"><img align="center"
+<h3 align="center">CS Graduate, .NET Developer, Level Two Freelancer at Fiverr.<a href="https://www.fiverr.com/qmubin" target="blank"><img align="center"
       src="https://user-images.githubusercontent.com/70473461/92360592-5a3bb800-f0ed-11ea-8dce-dd95b72c7825.png"
       alt="adam pithewan" height="25" width="30" /></a></h3>
 
