@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning .NET Web Development and soon planned to Learn Angular and .NET Core
 
-- 📫 How to reach me **qazimubin444@gmail.com**
+- 📫 How to reach me **qazimubin123@gmail.com**
 
 - ⚡ Motivation :- Dedication Dedication and Dedication.
 
